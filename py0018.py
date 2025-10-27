@@ -8,3 +8,4 @@ nota, nombre = registro_corregido.split(',')
 print(f"{nombre} ha sacado una nota de {nota}.")
 
 
+

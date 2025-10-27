@@ -39,3 +39,4 @@ while opcion != "salir":
         print(f"Resultado: {res}")
     else:
         print("Operación no válida.")
+
